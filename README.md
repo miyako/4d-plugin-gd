@@ -7,39 +7,47 @@ Rotate + Animate
 
 ![sample](https://cloud.githubusercontent.com/assets/1725068/18774589/ca7dab4e-8195-11e6-85e1-aee11f061dc1.gif)
 
-Filter
+Brightness
 
-* brightness
 ![brightness](https://cloud.githubusercontent.com/assets/1725068/18776435/30ccf874-81a4-11e6-9c69-e0a633fa82f3.png)
 
-* colorize
+Colorize
+
 ![colorize](https://cloud.githubusercontent.com/assets/1725068/18776439/312aa032-81a4-11e6-9ebd-5e75e7b99ecc.png)
 
-* contrast
+Contrast
+
 ![contrast](https://cloud.githubusercontent.com/assets/1725068/18776440/312d6786-81a4-11e6-8ae3-25c17c311a85.png)
 
-* edgedetect
+Edge Detect
+
 ![edgedetect](https://cloud.githubusercontent.com/assets/1725068/18776441/3132c32a-81a4-11e6-899a-8db50f5a556b.png)
 
-* emboss
+Emboss
+
 ![emboss](https://cloud.githubusercontent.com/assets/1725068/18776442/3135dd08-81a4-11e6-8852-9e17adff54d9.png)
 
-* gaussian-blur
+Gaussian Blur
 ![gaussian-blur](https://cloud.githubusercontent.com/assets/1725068/18776438/3129a402-81a4-11e6-9a4a-f7b27072a9b6.png)
 
-* grayscale
+Grayscale
+
 ![grayscale](https://cloud.githubusercontent.com/assets/1725068/18776436/30f69a1c-81a4-11e6-9d7f-df85c49d87b1.png)
 
-* mean-removal
+Mean Removal
+
 ![mean-removal](https://cloud.githubusercontent.com/assets/1725068/18776437/31229f54-81a4-11e6-9fb2-427b6a55a644.png)
 
-* negate
+Negate
+
 ![negate](https://cloud.githubusercontent.com/assets/1725068/18776443/31501e8e-81a4-11e6-82a0-8dea1172e548.png)
 
-* selective-blur
+Selective Blur
+
 ![selective-blur](https://cloud.githubusercontent.com/assets/1725068/18776444/31502d02-81a4-11e6-82e6-709de495b774.png)
 
-* smooth
+Smooth
+
 ![smooth](https://cloud.githubusercontent.com/assets/1725068/18776445/3154e89c-81a4-11e6-922b-6c64aa160618.png)
 
 ###Rotation
