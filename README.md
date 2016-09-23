@@ -9,27 +9,38 @@ Rotate + Animate
 
 Filter
 
-![brightness](https://cloud.githubusercontent.com/assets/1725068/18776264/fad38612-81a2-11e6-86fd-91aa4d4e6a3e.png)
+* brightness
+![brightness](https://cloud.githubusercontent.com/assets/1725068/18776435/30ccf874-81a4-11e6-9c69-e0a633fa82f3.png)
 
-![colorize](https://cloud.githubusercontent.com/assets/1725068/18776285/11de1cf0-81a3-11e6-9dd3-eb88467b7376.png)
+* colorize
+![colorize](https://cloud.githubusercontent.com/assets/1725068/18776439/312aa032-81a4-11e6-9ebd-5e75e7b99ecc.png)
 
-![contrast](https://cloud.githubusercontent.com/assets/1725068/18776273/01917c70-81a3-11e6-9592-3affed10f447.png)
+* contrast
+![contrast](https://cloud.githubusercontent.com/assets/1725068/18776440/312d6786-81a4-11e6-8ae3-25c17c311a85.png)
 
-![edgedetect](https://cloud.githubusercontent.com/assets/1725068/18776296/215823e2-81a3-11e6-99d4-5fa4af2da53a.png)
+* edgedetect
+![edgedetect](https://cloud.githubusercontent.com/assets/1725068/18776441/3132c32a-81a4-11e6-899a-8db50f5a556b.png)
 
-![emboss](https://cloud.githubusercontent.com/assets/1725068/18776299/27e3105a-81a3-11e6-8389-fb8bbe43e886.png)
+* emboss
+![emboss](https://cloud.githubusercontent.com/assets/1725068/18776442/3135dd08-81a4-11e6-8852-9e17adff54d9.png)
 
-![gaussian-blur](https://cloud.githubusercontent.com/assets/1725068/18776300/2ce1678c-81a3-11e6-9721-14ec61021779.png)
+* gaussian-blur
+![gaussian-blur](https://cloud.githubusercontent.com/assets/1725068/18776438/3129a402-81a4-11e6-9a4a-f7b27072a9b6.png)
 
-![grayscale](https://cloud.githubusercontent.com/assets/1725068/18776304/3796a70a-81a3-11e6-9e4e-fde68cf2cf8f.png)
+* grayscale
+![grayscale](https://cloud.githubusercontent.com/assets/1725068/18776436/30f69a1c-81a4-11e6-9d7f-df85c49d87b1.png)
 
-![mean-removal](https://cloud.githubusercontent.com/assets/1725068/18776307/3c2c9072-81a3-11e6-9ded-8766202abec8.png)
+* mean-removal
+![mean-removal](https://cloud.githubusercontent.com/assets/1725068/18776437/31229f54-81a4-11e6-9fb2-427b6a55a644.png)
 
-![negate](https://cloud.githubusercontent.com/assets/1725068/18776311/407693da-81a3-11e6-9e4a-54ff586a891a.png)
+* negate
+![negate](https://cloud.githubusercontent.com/assets/1725068/18776443/31501e8e-81a4-11e6-82a0-8dea1172e548.png)
 
-![selective-blur](https://cloud.githubusercontent.com/assets/1725068/18776315/4457552a-81a3-11e6-8eb4-c3abb94976e6.png)
+* selective-blur
+![selective-blur](https://cloud.githubusercontent.com/assets/1725068/18776444/31502d02-81a4-11e6-82e6-709de495b774.png)
 
-![smooth](https://cloud.githubusercontent.com/assets/1725068/18776318/48473dd0-81a3-11e6-9130-9df506dfdf41.png)
+* smooth
+![smooth](https://cloud.githubusercontent.com/assets/1725068/18776445/3154e89c-81a4-11e6-922b-6c64aa160618.png)
 
 ###Rotation
 
