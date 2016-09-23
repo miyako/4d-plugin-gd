@@ -1,6 +1,12 @@
 # 4d-plugin-gd
 Image manipulation based on [libgd](https://libgd.github.io)
 
+##Platform
+
+| carbon | cocoa | win32 | win64 |
+|:------:|:-----:|:---------:|:---------:|
+|🆗|🆗|🆗|🆗|
+
 ###Example
 
 Rotate + Animate
