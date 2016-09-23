@@ -28,6 +28,7 @@ Emboss
 ![emboss](https://cloud.githubusercontent.com/assets/1725068/18776442/3135dd08-81a4-11e6-8852-9e17adff54d9.png)
 
 Gaussian Blur
+
 ![gaussian-blur](https://cloud.githubusercontent.com/assets/1725068/18776438/3129a402-81a4-11e6-9a4a-f7b27072a9b6.png)
 
 Grayscale
