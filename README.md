@@ -1,2 +1,3 @@
 # 4d-plugin-gd
-Image manipulation based on libgd
+Image manipulation based on [libgd](https://libgd.github.io)
+
