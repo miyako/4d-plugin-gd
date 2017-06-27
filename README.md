@@ -1,13 +1,18 @@
 # 4d-plugin-gd
 Image manipulation based on [libgd](https://libgd.github.io)
 
-##Platform
+### Platform
 
 | carbon | cocoa | win32 | win64 |
 |:------:|:-----:|:---------:|:---------:|
-|🆗|🆗|🆗|🆗|
+|<img src="https://cloud.githubusercontent.com/assets/1725068/22371562/1b091f0a-e4db-11e6-8458-8653954a7cce.png" width="24" height="24" />|<img src="https://cloud.githubusercontent.com/assets/1725068/22371562/1b091f0a-e4db-11e6-8458-8653954a7cce.png" width="24" height="24" />|<img src="https://cloud.githubusercontent.com/assets/1725068/22371562/1b091f0a-e4db-11e6-8458-8653954a7cce.png" width="24" height="24" />|<img src="https://cloud.githubusercontent.com/assets/1725068/22371562/1b091f0a-e4db-11e6-8458-8653954a7cce.png" width="24" height="24" />|
 
-###Example
+### Version
+
+<img src="https://cloud.githubusercontent.com/assets/1725068/18940649/21945000-8645-11e6-86ed-4a0f800e5a73.png" width="32" height="32" /> <img src="https://cloud.githubusercontent.com/assets/1725068/18940648/2192ddba-8645-11e6-864d-6d5692d55717.png" width="32" height="32" />
+
+
+## Examples
 
 Rotate + Animate
 
@@ -57,7 +62,7 @@ Smooth
 
 ![smooth](https://cloud.githubusercontent.com/assets/1725068/18776445/3154e89c-81a4-11e6-922b-6c64aa160618.png)
 
-###Rotation
+### Rotation
 
 ```
 $path:=Get 4D folder(Current resources folder)
@@ -73,7 +78,7 @@ WRITE PICTURE FILE($pathDst+String($i;"000")+".png";$result)
 End for 
 ```
 
-###Animation
+### Animation
 
 ```
 $path:=Get 4D folder(Current resources folder)+"rotated"+Folder separator
@@ -95,7 +100,7 @@ $result:=GD Animate ($images;$delay)  //frames are internally converted to GIF
 WRITE PICTURE FILE(System folder(Desktop)+"sample.gif";$result)
 ```
 
-###Filter
+### Filter
 
 The following filters are supported
 
@@ -115,7 +120,7 @@ IMG_FILTER_PIXELATE 12
 IMG_FILTER_COLORIZE 13
 ```
 
-###Filter parameters
+### Filter parameters
 
 0 params
 
